@@ -1,0 +1,117 @@
+Uso;Tipo;UsoTipo;Descripci¢n del Tipo;TipoCalificacion;Verificacion
+2;42;2-42;Almac‚n Grande Y Mediano;C;SI
+4;69;4-69;Anfiteatro;I;SI
+2;68;2-68;µreas De Circulaci¢n N.P.H.;NO;SI
+4;61;4-61;Bibliotecas Y Ludotecas;I;SI
+2;46;2-46;Bodegas En Edificios;C;SI
+3;96;3-96;Bodegas, Industrias Y Talleres;I;SI
+7;88;7-88;Cancha Constru¡da;C;SI
+7;87;7-87;Cancha Sin Construcci¢n;NO;SI
+6;10;6-10;Canteras;NO;SI
+1;40;1-40;Casa Cural;R;SI
+9;14;9-14;Cbml Con Construccion;NO;SI
+4;67;4-67;Cementerio;I;SI
+2;41;2-41;Centro Comercial;C;SI
+7;85;7-85;Centro De Eventos Y Convenciones;I;SI
+4;76;4-76;Centros Penitenciarios;I;SI
+4;62;4-62;Cinemas;I;SI
+4;84;4-84;Cl¡nicas, Hospitales O Centro De Salud 4 O M s Pisos Nuevo;I;SI
+4;83;4-83;Cl¡nicas, Hospitales O Centro De Salud 4 O M s Pisos Usado;I;NO
+4;82;4-82;Cl¡nicas, Hospitales O Centro De Salud Hasta 3 Pisos Nuevo;I;NO
+4;65;4-65;Cl¡nicas, Hospitales O Centro De Salud Hasta 3 Pisos Usado;I;SI
+4;63;4-63;Clubes Gran Extensi¢n;I;SI
+4;81;4-81;Clubes Peque¤os;I;NO
+7;83;7-83;Coliseos;I;SI
+2;65;2-65;Comercial Y Servicios - Cancha Sintetica (N.P.H);NO;SI
+2;59;2-59;Comercial Y Servicios - Cancha Sintetica (R.P.H);C;SI
+1;32;1-32;Conjunto Residencial Hasta 3 Pisos  Usado;R;SI
+1;36;1-36;Conjunto Residencial Hasta 3 Pisos Nuevo;R;SI
+4;72;4-72;Conventos;I;SI
+2;48;2-48;Cuarto étil O De Hobbies;C;SI
+10;36;10-36;Cuarto étil O De Hobbies;C;SI
+2;52;2-52;Edificio De Parquederos;C;SI
+8;29;8-29;Espacio P£blico - Const. Cerros Tutelares;C;SI
+2;47;2-47;Estaciones  De Servicio;C;SI
+4;75;4-75;Estaciones De Sistema Masivo De Transporte;I;SI
+7;82;7-82;Estadios;I;SI
+1;39;1-39;Finca De Recreo;R;SI
+3;97;3-97;Galpones, Gallineros, Marraneras, Porquerizas;I;SI
+2;43;2-43;Hoteles  Y Moteles 4 O M s Pisos  Usado;C;SI
+2;62;2-62;Hoteles  Y Moteles Hasta 3 Pisos Nuevo;C;SI
+2;57;2-57;Hoteles  Y Moteles Hasta 3 Pisos Usado;C;SI
+2;39;2-39;Hoteles Y Moteles 4 O M s Pisos  Nuevo;C;SI
+4;70;4-70;Iglesias;I;SI
+4;74;4-74;Infraestructura De Servicios;I;SI
+4;88;4-88;Instalaciones Militares 4 O Mas Pisos Nuevo;I;NO
+4;87;4-87;Instalaciones Militares 4 O Mas Pisos Usado;I;NO
+4;86;4-86;Instalaciones Militares Hasta 3 Pisos Nuevo;I;NO
+4;85;4-85;Instalaciones Militares Hasta 3 Pisos Usado;I;NO
+7;89;7-89;Jard¡n Bot nico;I;NO
+3;98;3-98;Ladrilleras;I;SI
+2;40;2-40;Local;C;SI
+2;38;2-38;Local Comidas;C;NO
+2;61;2-61;Local, Oficina Y Consultorio Hasta 3 Pisos;C;SI
+2;60;2-60;Local, Oficina Y Consultorio Hasta 3 Pisos En Zonas De Actividad Comercial E Industrial;C;SI
+2;67;2-67;Locales Candelaria;C;SI
+2;66;2-66;Locales Guayaquil;C;SI
+9;19;9-19;Lote  Con Mejoras;NO;SI
+9;20;9-20;Lote  En Proceso De Construcci¢n;NO;SI
+9;21;9-21;Lote Agr¡cola, Pecuario O Forestal;NO;SI
+9;25;9-25;Lote Campestre;NO;SI
+9;23;9-23;Lote En R.P.H (% Dsg <>100);NO;SI
+9;22;9-22;Lote Forestal Protector;NO;SI
+9;17;9-17;Lote Interno;NO;SI
+4;77;4-77;Lote Jardin Cementerio ? Doble;NO;SI
+4;66;4-66;Lote Jard¡n Cementerio ? Sencillo;NO;SI
+4;78;4-78;Lote Jardin Cementerio ? Triple;NO;SI
+9;27;9-27;Lote No Desarrollable;NO;NO
+9;16;9-16;Lote No Urbanizable;NO;SI
+9;26;9-26;Lote Parcelacion;NO;SI
+9;24;9-24;Lote Rph En Proceso De Construccion;NO;SI
+9;18;9-18;Lote Solar;NO;SI
+9;15;9-15;Lote Urbanizable  O Urbanizado No Construido;NO;SI
+2;56;2-56;Mall Y Pasajes Comerciales;C;SI
+4;64;4-64;Museos ? Establecimientos Culturales;I;SI
+2;44;2-44;Oficinas Y Consultorios 4 O M s Pisos  Nuevo;C;SI
+2;45;2-45;Oficinas Y Consultorios 4 O M s Pisos  Usado;C;SI
+2;58;2-58;Oficinas Y Consultorios Candelaria 4 O M s Pisos;C;SI
+2;63;2-63;Oficinas Y Consultorios Unifamiliar;C;SI
+2;64;2-64;Oficinas Y Consultorios Unifamiliar Transici¢n;C;SI
+4;68;4-68;Osarios, Criptas;I;SI
+7;79;7-79;Parque Construido;I;SI
+2;49;2-49;Parqueadero;C;SI
+2;53;2-53;Parqueadero Descubierto;NO;SI
+2;50;2-50;Parqueadero Exterior Cubierto;NO;SI
+10;38;10-38;Parqueadero Exterior Cubierto;NO;SI
+2;51;2-51;Parqueadero Exterior Descubierto;NO;SI
+10;39;10-39;Parqueadero Exterior Descubierto;NO;SI
+10;40;10-40;Parqueadero Externo  Descubierto;NO;SI
+10;37;10-37;Parqueadero Residencial;C;SI
+7;80;7-80;Parques No Construido;NO;SI
+2;55;2-55;Patio Operativo Terminales;NO;SI
+7;84;7-84;Piscinas;P;SI
+4;80;4-80;Planetario;I;NO
+7;90;7-90;Planetario;I;NO
+2;54;2-54;Plazas De Mercado;C;SI
+7;81;7-81;Recreativo Y Deportivo - Centros Recreacionales;I;SI
+1;35;1-35;Residencial 4 O M s Pisos  Nuevo;R;SI
+1;31;1-31;Residencial 4 O M s Pisos Usado;R;SI
+1;30;1-30;Residencial Hasta 3 Pisos;R;SI
+1;37;1-37;Residencial Progresivo 4 O M s Pisos;R;SI
+2;37;2-37;Restaurantes;C;NO
+4;73;4-73;Salon Comunal Y Parroquial;I;SI
+10;34;10-34;Secadero Residencial Cubierto;R;SI
+10;35;10-35;Secadero Residencial Descubierto;NO;SI
+4;71;4-71;Seminarios;I;SI
+4;79;4-79;Teatros;I;NO
+10;33;10-33;Terraza Futura Construcci¢n - Unidad Predial Por Construir;NO;SI
+4;59;4-59;Universidades Y Colegio 4 O M s Pisos Nuevo;I;SI
+4;60;4-60;Universidades Y Colegio 4 O M s Pisos Usado;I;SI
+4;57;4-57;Universidades Y Colegio Hasta 3 Pisos Nuevo;I;NO
+4;58;4-58;Universidades Y Colegio Hasta 3 Pisos Usado;I;NO
+5;92;5-92;V¡as F‚rreas;NO;SI
+5;90;5-90;V¡as Peatonales;NO;SI
+5;91;5-91;V¡as P£blicas;NO;SI
+1;33;1-33;Viviendas Campesinas;R;NO
+8;28;8-28;Zonas Verdes;NO;SI
+7;86;7-86;Zool¢gico;I;SI
